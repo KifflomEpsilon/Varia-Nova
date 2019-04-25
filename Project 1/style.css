@@ -159,7 +159,87 @@ a.button:active {
   background-position: right !important;
 }
 /* <!-- Afke --> */
+html {
+    background-image:	#fbfdfb
+  }
+  body {
+    background:#fbfdfb
+    font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1
+    margin: 0 auto;
+    overflow:visible;
+    padding: 0
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    test-shadow: none
+    text-transform: none;
+    visibility: visible;
+    white-space: normal;
+    word-spacing: normal;
+  }
+  wrapper {
+    background-color: inherit;
+    width: 100%
+    overflow-x: hidden;
+  }
 
+  .banner .style1. fullscreen {
+    min-height: 100vh; 
+  }
 /* <!--  Anastatia--> */
 
 /* <!--  Kevin --> */
+<<<<<<< HEAD
+.card {
+  background-color: white;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  min-height: 350px;
+}
+
+.content-align-left .card .left-column {
+  float: left;
+  width: 35%;
+}
+
+.content-align-left .card .right-column {
+  float: left;
+  width: 65%;
+}
+
+.content-align-right .card .left-column {
+  float: right;
+  width: 35%;
+}
+
+.content-align-right .card .right-column {
+  float: right;
+  width: 65%;
+}
+
+.content {
+  padding: 10px 50px 10px 50px;
+}
+
+.image {
+  /* Only use border when there is no image!! */
+  border: 1px solid lightgray;
+  height: 350px;
+}
+
+.button {
+  color: black;
+  border: 2px solid lightgray;
+  border-radius: 50px;
+  text-decoration: none;
+  margin-top: 50px;
+  padding: 10px;
+  margin: 50px;
+}
+=======
+§§§§§
+>>>>>>> f43300986128d3c45d7d74730ca6fa040dc159aa
