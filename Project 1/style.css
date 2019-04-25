@@ -1,10 +1,41 @@
 /* <!-- Yassine --> */
 
 /* <!-- Afke --> */
+html {
+    background-image:	#fbfdfb
+  }
+  body {
+    background:#fbfdfb
+    font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1
+    margin: 0 auto;
+    overflow:visible;
+    padding: 0
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    test-shadow: none
+    text-transform: none;
+    visibility: visible;
+    white-space: normal;
+    word-spacing: normal;
+  }
+  wrapper {
+    background-color: inherit;
+    width: 100%
+    overflow-x: hidden;
+  }
 
+  .banner .style1. fullscreen {
+    min-height: 100vh; 
+  }
 /* <!--  Anastatia--> */
 
 /* <!--  Kevin --> */
+<<<<<<< HEAD
 .card {
   background-color: white;
   border-top: 1px solid lightgray;
@@ -51,3 +82,6 @@
   padding: 10px;
   margin: 50px;
 }
+=======
+§§§§§
+>>>>>>> f43300986128d3c45d7d74730ca6fa040dc159aa
