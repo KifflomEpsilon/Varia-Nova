@@ -5,7 +5,7 @@ html {
     background-image:	#fbfdfb
   }
   body {
-    background:
+    background:#fbfdfb
     font-family:"lucida grande", tahoma, verdana, arial, sans-serif;
     font-size: 11px
     font-weight: normal;
@@ -16,6 +16,13 @@ html {
     padding: 0
     text-align: left;
     text-decoration: none;
+    text-indent: 0
+    test-shadow: none
+    text-transform: none;
+    visibility: visible;
+    white-space: normal;
+    word-spacing: normal;
+
   }
 /* <!--  Anastatia--> */
 
