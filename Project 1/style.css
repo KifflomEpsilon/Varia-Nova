@@ -5,3 +5,49 @@
 /* <!--  Anastatia--> */
 
 /* <!--  Kevin --> */
+.card {
+  background-color: white;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  min-height: 350px;
+}
+
+.content-align-left .card .left-column {
+  float: left;
+  width: 35%;
+}
+
+.content-align-left .card .right-column {
+  float: left;
+  width: 65%;
+}
+
+.content-align-right .card .left-column {
+  float: right;
+  width: 35%;
+}
+
+.content-align-right .card .right-column {
+  float: right;
+  width: 65%;
+}
+
+.content {
+  padding: 10px 50px 10px 50px;
+}
+
+.image {
+  /* Only use border when there is no image!! */
+  border: 1px solid lightgray;
+  height: 350px;
+}
+
+.button {
+  color: black;
+  border: 2px solid lightgray;
+  border-radius: 50px;
+  text-decoration: none;
+  margin-top: 50px;
+  padding: 10px;
+  margin: 50px;
+}
