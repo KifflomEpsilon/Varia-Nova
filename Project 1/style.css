@@ -22,7 +22,15 @@ html {
     visibility: visible;
     white-space: normal;
     word-spacing: normal;
+  }
+  wrapper {
+    background-color: inherit;
+    width: 100%
+    overflow-x: hidden;
+  }
 
+  .banner .style1. fullscreen {
+    min-height: 100vh; 
   }
 /* <!--  Anastatia--> */
 
